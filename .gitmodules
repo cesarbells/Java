@@ -1,0 +1,6 @@
+[submodule "ejemplos"]
+	path = ejemplos
+	url = https://github.com/cesarbells/ejemplos.git
+[submodule "bootcamp"]
+	path = bootcamp
+	url = https://github.com/cesarbells/bootcamp.git
